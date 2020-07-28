@@ -1,0 +1,196 @@
+127.0.0.1	localhost
+::1	localhost ip6-localhost ip6-loopback
+fe00::0	ip6-localnet
+ff00::0	ip6-mcastprefix
+ff02::1	ip6-allnodes
+ff02::2	ip6-allrouters
+
+10.251.33.13  s3-ap-southeast-1.amazonaws.com
+#10.112.80.83	www.code.com
+172.17.0.1	www.code.com
+172.17.0.1  www.lenovo-mbg.com
+172.17.0.1  www.mbg-api.com
+172.17.0.1  www.mbg.com
+
+172.17.0.1 kafka1
+172.17.0.1 kafka2
+
+10.122.12.61 mds-device.earth.xpaas.lenovo.com
+
+
+# 好未来
+10.90.72.83 k8stest.xesv5.com
+
+# 测试环境-新
+120.52.32.211 admin.xesv5.com
+120.52.32.211 i.xueersi.com
+120.52.32.211 gwadmin.beta.xesv5.com
+10.90.29.173 biz-redis
+#讲座后端
+120.52.32.211 teacher.xueersi.com
+120.52.32.211 biglive.xueersi.com
+120.52.32.211 www.xueersi.com
+120.52.32.211 video.xueersi.com
+120.52.32.211 bizlecture.xesv5.com
+120.52.32.211 bizteacher.xueersi.com
+120.52.32.211 admin.xueersi.com
+120.52.32.211 touch.xueersi.com
+120.52.32.211 otmsapi.xesv5.com
+#ms平台
+120.52.32.211 ms.xesv5.com
+120.52.32.211 gwadmin.test.xesv5.com
+ 
+120.52.32.211 eolinker.xesv5.com
+ 
+120.52.32.211 clouding.xesv5.com
+# 阿里云线上测试环境
+39.104.73.37 livepub.xescdn.com
+39.104.77.255 testgslb.xueersi.com
+39.104.77.255 gslb.xueersi.com
+39.104.88.126 replay.xesv5.com
+39.104.88.126 replay.xescdn.com
+ 
+39.104.73.37 livepubgz.xescdn.com
+39.104.73.37 livepubyz.xescdn.com
+39.104.73.37 livepubbak.xescdn.com 
+ 
+39.104.73.37 livetestgz1.xescdn.com
+39.104.73.37 livetestgz2.xescdn.com
+39.104.73.37 livetestgz3.xescdn.com
+39.104.73.37 livetestyz1.xescdn.com
+39.104.73.37 livetestyz2.xescdn.com
+39.104.73.37 livetestyz3.xescdn.com
+39.104.73.37 livetestbak1.xescdn.com
+39.104.73.37 livetestbak2.xescdn.com
+39.104.73.37 livetestbak3.xescdn.com
+ 
+39.104.77.255 gslb.xueersi.com
+39.104.88.126 replay.xesv5.com
+39.104.88.126 replay.xescdn.com
+10.99.1.253 log.xescdn.com
+ 
+#增长  
+120.52.32.211 cart.xueersi.com
+120.52.32.211 courseapi.xesv5.com
+120.52.32.211 bizadmin.xesv5.com
+120.52.32.211 mall.xueersi.com
+120.52.32.211 laoshi.xueersi.com
+120.52.32.211 examination.xueersi.com
+120.52.32.211 exam.xueersi.com
+120.52.32.211 login.xueersi.com
+120.52.32.211 reg.xueersi.com
+120.52.32.211 www.xueersi.com
+120.52.32.211 touch.xueersi.com
+#120.52.32.211 weixin.xueersi.com
+120.52.32.211 ocenter.xueersi.com
+120.52.32.211 trade.xueersi.com
+120.52.32.211 bizadminv4.xesv5.com
+120.52.32.211 admin.xesv5.com
+120.52.32.211 gwadmin.beta.xesv5.com
+120.52.32.211 configure.xesv5.com
+120.52.32.211 configureadmin.xesv5.com
+120.52.32.211 expapisrv.xesv5.com 
+120.52.32.211 expadminserver.xesv5.com
+120.52.32.211 expadmin.xesv5.com
+120.52.32.211 student.xueersi.com
+120.52.32.211 expclass.xueersi.com
+120.52.32.211 admin.xueersi.com
+120.52.32.211 trade.xueersi.com
+120.52.32.211 bizcrm.xesv5.com
+120.52.32.211 expapi.xueersi.com
+120.52.32.211 expstatic.xueersi.com
+120.52.32.211 exp.xesimg.com
+120.52.32.211 g.xueersi.com
+10.90.70.103 expadminapi.xesv5.com
+120.52.32.211 res01.xesimg.com
+120.52.32.211 res02.xesimg.com
+120.52.32.211 res03.xesimg.com
+120.52.32.211 res04.xesimg.com
+120.52.32.211 res05.xesimg.com
+120.52.32.211 res06.xesimg.com
+120.52.32.211 res11.xesimg.com
+120.52.32.211 res12.xesimg.com
+120.52.32.211 res13.xesimg.com
+120.52.32.211 res14.xesimg.com
+120.52.32.211 res15.xesimg.com
+120.52.32.211 res16.xesimg.com
+120.52.32.211 res17.xesimg.com
+120.52.32.211 res18.xesimg.com
+120.52.32.211 lib01.xesimg.com
+120.52.32.211 lib02.xesimg.com
+120.52.32.211 lib03.xesimg.com
+120.52.32.211 lib04.xesimg.com
+120.52.32.211 img03.xesimg.com
+120.52.32.211 css03.xesimg.com
+120.52.32.211 js03.xesimg.com
+120.52.32.211 img04.xesimg.com
+120.52.32.211 css04.xesimg.com
+120.52.32.211 js04.xesimg.com
+120.52.32.211 static.xesimg.com
+120.52.32.211 res01.xesimg.com
+120.52.32.211 res02.xesimg.com
+120.52.32.211 res03.xesimg.com
+120.52.32.211 res04.xesimg.com
+120.52.32.211 res05.xesimg.com
+120.52.32.211 res06.xesimg.com
+120.52.32.211 xes01.xesimg.com
+120.52.32.211 xes02.xesimg.com
+120.52.32.211 xes03.xesimg.com
+120.52.32.211 xes04.xesimg.com
+120.52.32.211 flash.xesimg.com
+120.52.32.211 res16.xesimg.com
+120.52.32.211   artemis.xueersi.com
+120.52.32.211  ad.xueersi.com
+120.52.32.211  ads.xueersi.com
+120.52.32.211   yingxiao.xesv5.com
+120.52.32.211 growth.xueersi.com
+# 127.0.0.1 growth.xueersi.com
+120.52.32.211  expapisrv.xesv5.com
+ 
+ 
+120.52.32.211 booster.xueersi.com
+120.52.32.211 growoole.xueersi.com
+120.52.32.211 weixin.xueersi.com
+120.52.32.211 wechatapi.xesv5.com
+120.52.32.211 growthapi.xesv5.com
+120.52.32.211 bizactivity.xesv5.com
+# 10.90.71.25  bizactivity.xesv5.com
+120.52.32.211 activity.xueersi.com
+120.52.32.211 mq.xesv5.com
+10.90.72.83 k8stest.xesv5.com
+120.52.32.211 libs.xesimg.com
+ 
+10.90.29.171 biz-mysql
+10.90.71.157 public-common-rabbit
+10.90.70.103 userprofile.xesv5.com
+10.90.70.103 userapi.xesv5.com
+10.90.70.103 cardcouponapi.xesv5.com
+120.52.32.211 custom.xesv5.com
+10.90.70.103 sms.xesv5.com
+10.90.29.173 redis-fileupload
+10.90.72.75 storage.xesv5.com
+10.90.70.102 upload.xueersi.com
+10.90.72.75 storagefe.xesv5.com
+ 
+10.90.70.103 promotionapi.xesv5.com
+10.90.70.103 orderapi.xesv5.com
+10.90.70.103 adminapi.xesv5.com
+10.90.70.103 abtest.xesv5.com
+120.52.32.211 abexp.xesv5.com
+120.52.32.211 t.xueersi.com
+120.52.32.211 project.xueersi.com
+10.90.70.103 teacherapi.xesv5.com
+120.52.32.211 smqpadmin.xesv5.com
+120.52.32.211 smqpapi.xesv5.com
+120.52.32.211 gogrowthapi.xesv5.com
+120.52.32.211 funnel.xueersi.com
+ 
+120.52.32.211 otms.xesv5.com
+10.90.72.83 k8stest.xeappmsgapisv5.com
+10.90.71.157 biz-growth-rabbit
+111.164.19.223 xesfile.xesimg.com
+ 
+# 175.102.181.156  jump.xesv5.com
+ 
+10.90.71.30 bizapiserver.xesv5.com
+
